@@ -1,0 +1,8 @@
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\CrossCutting\bin\Debug\netstandard2.0\CrossCutting.deps.json
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\CrossCutting\bin\Debug\netstandard2.0\CrossCutting.dll
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\CrossCutting\bin\Debug\netstandard2.0\CrossCutting.pdb
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.AssemblyInfo.cs
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.dll
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\CrossCutting\obj\Debug\netstandard2.0\CrossCutting.pdb

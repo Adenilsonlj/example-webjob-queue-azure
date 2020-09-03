@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R40j8BD1Q/aFpTR6gZWBK+HHqrpEJyBCiWqsBKPJ+dpZ127h/oAWalnQRbgv/Gpb/qGHEu3lG4WFZ+6xuxWs1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aljunior2\\source\\repos\\WebJobsSDKSample\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

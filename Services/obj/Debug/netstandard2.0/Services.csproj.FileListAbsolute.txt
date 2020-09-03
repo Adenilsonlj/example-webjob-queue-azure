@@ -1,0 +1,8 @@
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\aljunior2\source\repos\WebJobsSDKSample\Services\obj\Debug\netstandard2.0\Services.pdb
